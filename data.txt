@@ -4,3 +4,4 @@ vless://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:80?encryption=no
 trojan://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:80?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F103.133.223.50-2096&security=none&sni=nautica.foolvpn.me#ID%20PT%20Cloud%20Teknologi%20Nusantara
 vless://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:80?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F203.194.112.119-8443&security=none&sni=#ID%20CV.%20Rumahweb%20Indonesia
 vless://4f6282e6-dc5e-40de-a3a9-b7d2bb38651c@nautica.foolvpn.me:443?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F206.237.98.76-587&security=tls&sni=nautica.foolvpn.me#ID%20PT%20Herza%20Digital%20Indonesia
+vless://db999ae6-e601-4cf9-97ce-7510983320fb@nautica.foolvpn.me:443?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F129.150.36.188-53435&security=tls&sni=nautica.foolvpn.me#SG%20Oracle%20Corporation
