@@ -32,7 +32,7 @@ def parse_proxy(proxy_url):
 
 # Function to insert proxy data into Supabase
 def insert_proxy_to_supabase(proxy_data):
-    response = supabase.table("proxies").insert(proxy_data).execute()
+    response = supabase.table("db").insert(proxy_data).execute()
     if response.status_code == 201:
         print(f"Inserted proxy: {proxy_data['uuid']}")
     else:
