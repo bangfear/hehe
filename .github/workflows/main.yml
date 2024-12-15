@@ -1,3 +1,0 @@
-git add .
-git commit -m "Set up GitHub Actions to run script on data.txt update"
-git push origin main
