@@ -1,0 +1,5 @@
+trojan://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:443?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F103.133.223.50-2096&security=tls&sni=nautica.foolvpn.me#ID%20PT%20Cloud%20Teknologi%20Nusantara
+vless://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:443?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F103.133.223.50-2096&security=tls&sni=nautica.foolvpn.me#ID%20PT%20Cloud%20Teknologi%20Nusantara
+vless://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:80?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F103.133.223.50-2096&security=none&sni=#ID%20PT%20Cloud%20Teknologi%20Nusantara
+trojan://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:80?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F103.133.223.50-2096&security=none&sni=nautica.foolvpn.me#ID%20PT%20Cloud%20Teknologi%20Nusantara
+vless://c1aa773a-3563-4a10-97f3-f087fc33a4d9@nautica.foolvpn.me:80?encryption=none&type=ws&host=nautica.foolvpn.me&path=%2F203.194.112.119-8443&security=none&sni=#ID%20CV.%20Rumahweb%20Indonesia
